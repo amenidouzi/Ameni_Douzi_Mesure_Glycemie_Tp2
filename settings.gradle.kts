@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Ameni_Douzi_Mesure_Glycemie_Tp2"
 include(":app")
+include(":app")
  

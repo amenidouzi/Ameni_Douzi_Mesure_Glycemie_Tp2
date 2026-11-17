@@ -1,4 +1,4 @@
-package com.example.ameni_douzi_mesure_glycemie;
+package com.example.ameni_douzi_tp3_niveau_glycemie;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.ameni_douzi_mesure_glycemie", appContext.getPackageName());
+        assertEquals("com.example.ameni_douzi_tp3_niveau_glycemie", appContext.getPackageName());
     }
 }

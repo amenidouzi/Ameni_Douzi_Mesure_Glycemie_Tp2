@@ -1,4 +1,4 @@
-package com.example.ameni_douzi_mesure_glycemie;
+package com.example.ameni_douzi_tp3_niveau_glycemie;
 
 import org.junit.Test;
 
